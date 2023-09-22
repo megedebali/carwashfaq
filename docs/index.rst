@@ -1,93 +1,79 @@
 .. include:: ../README.rst
 
-=========================================
-Guidelines for Exploring Melungeon Heritage in Famous Americans
-=========================================
+=====================================
+Introduction: The World of Car Wash Industry
+=====================================
 
-Reference and resources: `Lest We Forget: The Melungeon Colony of Newman's Ridge Paperback – January 1, 2000 <https://www.amazon.com/Lest-We-Forget-Melungeon-Newmans/dp/157072167X>`_
+Welcome to the dynamic and ever-evolving world of the car wash industry. In this comprehensive guidebook, 
+we aim to shed light on every nook and cranny of this fascinating sector, from its humble beginnings 
+to the cutting-edge technologies driving it forward today.
 
-Introduction
-============
+The car wash industry, often overlooked as a simple service sector, is a blend of technological advancements, 
+customer service nuances, and business strategies. It's an industry where science meets aesthetics, ensuring 
+every vehicle not only runs smoothly but looks pristine.
 
-The mystery of Melungeons, a tri-racial group in the U.S. with unclear origins, 
-has captivated historians and the public alike. Intriguingly, two American icons, 
-Abraham Lincoln and Elvis Presley, are often cited as possible Melungeons.
+As urbanization and car ownership rates surge globally, the demand for car wash services has seen an exponential 
+rise. This guidebook is your essential companion in navigating this booming industry, whether you're an investor, 
+an entrepreneur, or simply a curious enthusiast.
 
-Guidelines
-==========
+Dive deep into the world of automated tunnels, eco-friendly water reclamation systems, and the art of hand washes. 
+Understand the intricacies of customer expectations, the significance of location, and the impact of branding.
 
-Objective Research
-------------------
+So, strap in and prepare for a journey of discovery. By the end of this guide, you'll not only appreciate the magic behind a sparkling clean car but also the immense machinery, both literal and figurative, that powers the car wash industry. Welcome aboard!
 
-Start with verified genealogical data and historical documents to explore claims 
-about Melungeon heritage especially for the most `famous melungeons <https://www.knot35.com/toplist/list-of-famous-melungeons/>`_ people in history. Avoid drawing conclusions based solely on physical appearance 
-or unverified accounts.
+.. list-table:: Car Wash Types
+   :widths: 15 40 15 15 20 15
+   :header-rows: 1
 
-Contextual Understanding
--------------------------
+   * - Car Wash Type
+     - Description
+     - Cost
+     - Time Required
+     - Environmental Impact
+     - Quality
+   * - Self-Service
+     - You wash the vehicle yourself using provided equipment.
+     - Low
+     - Varies
+     - Moderate
+     - Depends on user
+   * - Automatic (Touch)
+     - Automated system with brushes and rollers that physically touch the car to clean it.
+     - Medium
+     - 3-5 minutes
+     - Moderate
+     - Good
+   * - Automatic (Touchless)
+     - Uses high-pressure water jets and chemicals but no brushes or rollers, reducing the risk of scratches.
+     - Medium-High
+     - 3-5 minutes
+     - Moderate
+     - Good to Very Good
+   * - Full-Service
+     - Professional cleaning inside and out by staff, including vacuuming and interior wipe-down.
+     - High
+     - 20-30 minutes
+     - Moderate to High
+     - Very Good
+   * - Hand Wash
+     - Professional wash done entirely by hand, often including detailing options.
+     - High
+     - 30-60 minutes
+     - Moderate to High
+     - Excellent
+   * - Mobile Wash
+     - Professionals come to your location with all necessary equipment to wash the vehicle.
+     - Medium to High
+     - 20-60 minutes
+     - Varies
+     - Good to Excellent
+   * - Waterless Wash
+     - Using special chemicals that lift dirt without water. Ideal for areas with water restrictions or for an eco-friendly option.
+     - Medium
+     - 10-20 minutes
+     - Low
+     - Good
 
-Remember that the term "Melungeon" has been used in various ways throughout history, 
-often laden with social or racial implications. Consider the historical context when 
-evaluating any claims.
-
-Biographical Cross-referencing
-------------------------------
-
-Look for autobiographical statements, interviews, or verified writings by the person 
-in question that might lend credence to or disprove claims about Melungeon ancestry.
-
-Scientific Evidence
--------------------
-
-DNA analysis can offer strong evidence but should be coupled with genealogical research 
-for a more complete picture.
-
-Public Records
---------------
-
-Check birth, marriage, and death records, as well as census data, for any mention of 
-Melungeon heritage or associated surnames commonly linked to Melungeons.
-
-Literature Review
------------------
-
-Consult academic papers, journals, and reliable publications that discuss the historical 
-and social aspects of Melungeons. Make sure your information comes from credible sources.
-
-Family Trees
-------------
-
-Explore extended family trees to identify any common lineage with known Melungeons, 
-as family connections can provide additional avenues for verifying heritage claims.
-
-Critical Analysis
------------------
-
-Be wary of biases and stereotypes that may influence public or historical accounts. 
-Question the validity of any claims that lack proper evidence.
-
-Cultural Sensitivity
----------------------
-
-Handle the topic with the understanding that discussions around ethnicity and race are 
-sensitive and should be approached respectfully.
-
-Update Regularly
-----------------
-
-Given that research into `Melungeon heritage <https://paketmu.com/top-12-famous-melungeons-who-are-they/>`_ is ongoing, periodically update your 
-information as new data or publications become available.
-
-Conclusion
-==========
-
-By following these guidelines, researchers and enthusiasts can approach the subject 
-of Melungeon ancestry among famous Americans like Abraham Lincoln and Elvis Presley 
-in an informed and respectful manner.
-
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
